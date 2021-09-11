@@ -1,0 +1,31 @@
+.card {
+  box-shadow: 0 0.25rem 0.75rem rgb(0 0 0 / 5%);
+  height: 250px;
+}
+
+.name {
+  color: #007bff;
+  margin-bottom: 0.5rem;
+  display: inline-block;
+  font-weight: bolder;
+}
+
+.title {
+  color: #343a40;
+  font-family: "Playfair Display", Georgia, "Times New Roman", serif;
+  font-size: 1.75rem;
+}
+.date {
+  color: #6c757d;
+  margin-bottom: 0.25rem;
+}
+
+.cardtext {
+  margin-bottom: auto;
+}
+
+.card-img-right {
+  flex: 0 0 auto;
+  border-radius: 0 3px 3px 0;
+  display: block;
+}

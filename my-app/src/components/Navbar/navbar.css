@@ -1,0 +1,12 @@
+.text {
+  color: #6c757d;
+}
+
+.nav-scroller {
+  flex-wrap: nowrap;
+  padding-bottom: 1rem;
+  margin-top: -1px;
+  overflow-x: auto;
+  text-align: center;
+  white-space: nowrap;
+}
