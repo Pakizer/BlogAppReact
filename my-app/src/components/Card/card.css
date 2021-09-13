@@ -3,14 +3,14 @@
   height: 250px;
 }
 
-.name {
+.cname {
   color: #007bff;
   margin-bottom: 0.5rem;
   display: inline-block;
   font-weight: bolder;
 }
 
-.title {
+.ctitle {
   color: #343a40;
   font-family: "Playfair Display", Georgia, "Times New Roman", serif;
   font-size: 1.75rem;
